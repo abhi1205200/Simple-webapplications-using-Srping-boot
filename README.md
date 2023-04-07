@@ -1,6 +1,6 @@
 # Simple-webapplications-using-Srping-boot
 
-**Table of content**
+#**Table of content**<h1>
 
 1.Java Spring Boot
 
@@ -33,7 +33,7 @@ These features work together to provide you with a tool that allows you to set u
 
 
 
-**Features of Spring Boot:-
+**Features of Spring Boot:-**
 
 (a)Create stand-alone Spring applications
 (b)Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
@@ -45,7 +45,7 @@ These features work together to provide you with a tool that allows you to set u
 
 
 
-**Why is Spring Framework so popular?
+**Why is Spring Framework so popular?**
 
 
 
