@@ -33,7 +33,7 @@ These features work together to provide you with a tool that allows you to set u
 
 
 
-<h3>Features of Spring Boot:-</h3>
+<h1>Features of Spring Boot:-</h1>
 
 (a)Create stand-alone Spring applications
 
@@ -47,10 +47,10 @@ These features work together to provide you with a tool that allows you to set u
 
 (f)Absolutely no code generation and no requirement for XML configuration
 
+<br>
 
 
-
-<h4>Why is Spring Framework so popular?</h4>
+<h2>Why is Spring Framework so popular?</h2>
 
 
 
