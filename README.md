@@ -1,6 +1,6 @@
 # Simple-webapplications-using-Srping-boot
 
-Table of content
+**Table of content**
 
 1.Java Spring Boot
 
@@ -15,7 +15,7 @@ Table of content
 
 
 
-Java Spring Boot:-
+**Java Spring Boot:-**
 
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM).
 Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
