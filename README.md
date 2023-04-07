@@ -23,7 +23,9 @@ Java Spring Boot (Spring Boot) is a tool that makes developing web application a
 
 
 (I)Autoconfiguration
+
 (II)An opinionated approach to configuration.
+
 (III)The ability to create standalone applications.
 
 These features work together to provide you with a tool that allows you to set up a Spring-based application with minimal configuration and setup.
