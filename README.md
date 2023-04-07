@@ -1,4 +1,4 @@
-# Simple-webapplications-using-Srping-boot
+# Simple-webapplications-using-Spring-boot
 
 <h1>Table of content</h1>
 
