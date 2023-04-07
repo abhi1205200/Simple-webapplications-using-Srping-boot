@@ -13,16 +13,22 @@ Table of content
 
 
 
+
+
 Java Spring Boot:-
 
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM).
 Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
+
+
 
 (I)Autoconfiguration
  (II)An opinionated approach to configuration.
 (III)The ability to create standalone applications.
 
 These features work together to provide you with a tool that allows you to set up a Spring-based application with minimal configuration and setup.
+
+
 
 
 
@@ -37,7 +43,11 @@ Features of Spring Boot:-
 (f)Absolutely no code generation and no requirement for XML configuration
 
 
+
+
 Why is Spring Framework so popular?
+
+
 
 Spring Framework offers a dependency injection feature that lets objects define their own dependencies that the Spring container later injects into them. This enables developers to create modular applications consisting of loosely coupled components that are ideal for microservices and distributed network applications.
 
