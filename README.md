@@ -1,6 +1,6 @@
 # Simple-webapplications-using-Srping-boot
 
-**Table of content**
+**#Table of content**
 
 1.Java Spring Boot
 
@@ -15,7 +15,7 @@
 
 
 
-**Java Spring Boot:-**
+**#Java Spring Boot:-**
 
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM).
 Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
@@ -33,7 +33,7 @@ These features work together to provide you with a tool that allows you to set u
 
 
 
-Features of Spring Boot:-
+#Features of Spring Boot:-
 
 (a)Create stand-alone Spring applications
 (b)Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
@@ -45,7 +45,7 @@ Features of Spring Boot:-
 
 
 
-Why is Spring Framework so popular?
+#Why is Spring Framework so popular?
 
 
 
