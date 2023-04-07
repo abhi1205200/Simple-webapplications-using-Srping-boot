@@ -1,6 +1,6 @@
 # Simple-webapplications-using-Srping-boot
 
-#**Table of content**<h1>
+#<h1>**Table of content**</h1>
 
 1.Java Spring Boot
 
