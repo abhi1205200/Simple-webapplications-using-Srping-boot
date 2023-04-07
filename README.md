@@ -255,17 +255,6 @@ spring.mvc.view.suffix=.jsp
 
 <h4>welcome.jsp page</h4>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head> 
-    
-    <title>Welcome</title>
-    
-</head>
-
 <body><h1 style="background-color:DodgerBlue;"><center>Welcome!!!</center></h1>
-   
-</body> 
-</html>
+
 
