@@ -254,6 +254,8 @@ spring.mvc.view.suffix=.jsp
 </html>
 
 <h4>welcome.jsp page</h4>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head> 
@@ -266,3 +268,4 @@ spring.mvc.view.suffix=.jsp
    
 </body> 
 </html>
+
